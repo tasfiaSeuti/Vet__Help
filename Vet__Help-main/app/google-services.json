@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42842469651",
+    "project_id": "metal-vehicle-311306",
+    "storage_bucket": "metal-vehicle-311306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42842469651:android:ddb5eb9a385418be1056e6",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42842469651-nlvrmmj0c7tne6pbmq68r5stgj2r8pa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcq3cSc_sKOGjUE4DySDgz3TlYFZlFSF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42842469651-nlvrmmj0c7tne6pbmq68r5stgj2r8pa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FADBD8">
+
+    <EditText
+        android:id="@+id/AppointmentDate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:autoText="false"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:text="Select a Day"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/confirmBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="600dp"
+        android:layout_marginEnd="150dp"
+        android:layout_marginRight="150dp"
+        android:text="Confirm"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/AppointmentDate"
+        app:layout_constraintTop_toBottomOf="@+id/AppointmentDate" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

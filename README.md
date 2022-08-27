@@ -1,4 +1,4 @@
-# Vet__Help# 
+# Vet__Help
 
 The App is an Android app made using Android Studio. It is created so that Pet Owners can create new account, sign in & out, book appointments with Vets
 for their fur babies if tehy are sick or for routine checkups, and take them for the check up. On teh other hand, Vets can also create new account, sign in & out,
